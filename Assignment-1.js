@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 // Lines 2-4 push an Array into the variable numbers and prints the numbers
 var numbers =[1, 2, 3, 4, 5, 6, 7, 8];
 numbers.push(9);
@@ -17,4 +18,6 @@ var car = [];
 car.colour =["blank"];
 console.log(car.colour);
 
+=======
+>>>>>>> 4632b6f3ec6f2e98b132704575c4521c7979595a
 
